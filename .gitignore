@@ -1,0 +1,10 @@
+target/
+allure-results
+build/
+downloads
+.idea
+.gradle
+.allure
+*iml
+*.log
+src/main/resources/
